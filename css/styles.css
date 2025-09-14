@@ -189,7 +189,7 @@ background-size: cover;
   height: 56px;
   border-radius: 4px;
   border: none;
-  transition: background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: backgrond-color 250ms cubic-bezier(0.4,0,0.2,1);
 
 }
 
