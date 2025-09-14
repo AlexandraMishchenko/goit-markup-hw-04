@@ -403,4 +403,23 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #FFFFFF;}
+color: #FFFFFF;
+margin-bottom: 16px;}
+
+.footer-container {
+   width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  display: flex;
+align-items: baseline;}
+
+.footer-container-logo {margin-right: 120px;}
+
+.footer-container-social {}
+
+.footer-sociallink-list {display: flex;
+gap: 16px;}
+
+.footer-sociallink-item {width: 40px;
+height: 40px;}
